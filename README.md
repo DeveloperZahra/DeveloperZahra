@@ -18,4 +18,4 @@ A passionate software developer specializing in building robust and scalable web
 
 ### 🌐 Let's Connect!
 * **LinkedIn:** [https://www.linkedin.com/in/zahra][(https://www.linkedin.com/in/zahra)](https://www.linkedin.com/in/zahra-al-habsi-646180353?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-* **Email:** [zahra.dev@email.com](mailto:zahra.dev@email.com)
+
